@@ -1,74 +1,74 @@
 # 💸 Finor – Personal Finance Companion App
 
 Finor is a modern and intuitive personal finance mobile application built using Flutter.  
-It helps users track expenses, manage income, analyze spending patterns, and achieve savings goals with a clean and engaging UI.
+It helps users track expenses, manage income, analyze spending patterns, and achieve savings goals.
 
 ---
 
 ## 📱 App Preview
 
 ### 🏠 Home Dashboard
-![Home](project%20ss/Screenshot_1775067240.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067240.png" width="250"/>
+</p>
 
 ---
 
 ### 📊 Transactions Screen
-![Transactions](project%20ss/Screenshot_1775067242.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067242.png" width="250"/>
+</p>
 
 ---
 
 ### ➕ Add Transaction
-![Add Transaction](project%20ss/Screenshot_1775067245.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067245.png" width="250"/>
+</p>
 
 ---
 
 ### 🎯 Savings Goals
-![Goals](project%20ss/Screenshot_1775067248.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067248.png" width="250"/>
+</p>
 
 ---
 
 ### 📈 Insights & Analytics
-![Insights](project%20ss/Screenshot_1775067251.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067251.png" width="250"/>
+</p>
 
 ---
 
 ### 👤 Profile Screen
-![Profile](project%20ss/Screenshot_1775067254.png)
+<p align="center">
+  <img src="project%20ss/Screenshot_1775067254.png" width="250"/>
+</p>
 
 ---
 
 ## ✨ Features
 
-- 💰 Track income and expenses
-- 🧾 Add, edit, delete transactions
-- 🔍 Search and filter transactions
-- 🎯 Set savings goals and challenges
-- 📊 Weekly and monthly insights
-- 📈 Category-wise spending breakdown
-- ⚡ Smooth and modern UI/UX
+- 💰 Track income and expenses  
+- 🧾 Add, edit, delete transactions  
+- 🔍 Search and filter  
+- 🎯 Savings goals & challenges  
+- 📊 Insights & analytics  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Flutter
-- Dart
-- Local Storage (Hive / SQLite)
-- State Management (Provider / Riverpod)
+- Flutter  
+- Dart  
+- Hive / SQLite  
+- Provider / Riverpod  
 
 ---
 
-## 🎯 Project Objective
-
-This project demonstrates strong mobile development skills including:
-- Clean UI/UX design
-- State management
-- Data handling
-- Product thinking
-
----
-
-## 🚀 How to Run
+## 🚀 Run Locally
 
 ```bash
 git clone https://github.com/ayushD-Max/Finor-Personal-Finance-Companion-Mobile-App.git
